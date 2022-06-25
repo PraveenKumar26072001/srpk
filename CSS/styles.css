@@ -1,0 +1,128 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+}
+
+h1 {
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  line-height: 2;
+  font-family: cursive;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: cursive;
+  color: #11999e;
+  font-weight: normal;
+}
+
+div {
+  background-color: #d1ede1;
+  position: relative;
+  padding-top: 50px;
+}
+
+.propic {
+  height: 200px;
+  width: 200px;
+}
+
+.hi {
+  position: absolute;
+  top: 1.5%;
+  right: 11%;
+  height: 75px;
+  width: 250px;
+}
+
+.lo {
+  height: 400px;
+  width: 500px;
+}
+
+.him {
+  height: 75px;
+  width: 250px;
+  position: absolute;
+  left: 17%;
+}
+
+p {
+  color: #40514e;
+}
+
+.skill-row {
+  width: 76%;
+  text-align: left;
+  margin: 50px auto 100px;
+}
+
+.htm {
+  margin-right: 30px;
+  width: 35%;
+  float: left;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  margin: 70px auto;
+  width: 7%;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  margin-top: 20px;
+}
+
+.btn {
+  margin: 10px 0 10px;
+  background-color: #11999e;
+  padding:5px 10px 5px 10px;
+  color: #ffffff;
+  border-radius: 8px;
+
+}
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.cc {
+  padding: 20px;
+}
+
+.htm1 {
+  margin-left: 30px;
+  width: 35%;
+  float: right;
+}
+
+.end {
+  margin-bottom: 40px;
+}
+.bottom-container{
+  background-color:#11999e;
+  padding: 50px 0 20px;
+}
+.btn:hover{
+  background-color: skyblue;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.cc{
+  color: #EAF6F6;
+  font-size: 1.25rem;
+}
